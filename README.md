@@ -1,0 +1,1 @@
+This run_analysis.R code is designed to calculate the mean values of 79 parameters across 30 subjects for 6 different activities (see code book for description of the parameters and activities). The code relies on data previously provided in the course. Computational analysis is performed to achieve the desired output - TidyData.txt file
